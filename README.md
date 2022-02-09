@@ -17,8 +17,9 @@ Notes for the Machine Learning course @FEUP using [Obsidian](https://obsidian.md
 | Association Rules     | [MD](/notes/2.2_Frequent_Pattern_Mining_Association_Rules.md) | [PDF](/pdfs/2.2_Frequent_Pattern_Mining_Association_Rules.pdf) |
 
 ### Predictive Data Mining
-| Topic                        | MD  | PDF |
-| ---------------------------- | --- | --- |
-| Classification: Introduction |[MD](/notes/3.1_Introduction_to_Classification.md)       |[PDF](/pdfs/3.1_Introduction_to_Classification.pdf)     |
-| Classification Algorithms |[MD](/notes/3.2_Classification_Algorithms.md)       |[PDF](/pdfs/3.2_Classification_Algorithms.pdf)     |
-| Regression |[MD](/notes/3.3_Regression.md)       |[PDF](/pdfs/3.3_Regression.pdf)     |
+| Topic                               | MD                                                 | PDF                                                 |
+| ----------------------------------- | -------------------------------------------------- | --------------------------------------------------- |
+| Classification: Introduction        | [MD](/notes/3.1_Introduction_to_Classification.md) | [PDF](/pdfs/3.1_Introduction_to_Classification.pdf) |
+| Classification Algorithms           | [MD](/notes/3.2_Classification_Algorithms.md)      | [PDF](/pdfs/3.2_Classification_Algorithms.pdf)      |
+| Regression                          | [MD](/notes/3.3_Regression.md)                     | [PDF](/pdfs/3.3_Regression.pdf)                     |
+| Introduction to Recommender Systems |  [MD](/notes/3.4_Recommender.md)                                                   | [PDF](/pdfs/3.4_Recommender.pdf)                                                       |
