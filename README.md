@@ -21,3 +21,4 @@ Notes for the Machine Learning course @FEUP using [Obsidian](https://obsidian.md
 | ---------------------------- | --- | --- |
 | Classification: Introduction |[MD](/notes/3.1_Introduction_to_Classification.md)       |[PDF](/pdfs/3.1_Introduction_to_Classification.pdf)     |
 | Classification Algorithms |[MD](/notes/3.2_Classification_Algorithms.md)       |[PDF](/pdfs/3.2_Classification_Algorithms.pdf)     |
+| Regression |[MD](/notes/3.3_Regression.md)       |[PDF](/pdfs/3.3_Regression.pdf)     |
