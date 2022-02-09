@@ -24,3 +24,8 @@ Notes for the Machine Learning course @FEUP using [Obsidian](https://obsidian.md
 | Regression                          | [MD](/notes/3.3_Regression.md) | [PDF](/pdfs/3.3_Regression.pdf)  |
 | Introduction to Recommender Systems |  [MD](/notes/3.4_Recommender.md) | [PDF](/pdfs/3.4_Recommender.pdf)|
 | Ensemble Learning |  [MD](/notes/3.5_Ensemble.md) | [PDF](/pdfs/3.5_Ensemble.pdf)|
+
+### Other Topics
+| Topic             | MD  | PDF |
+| ----------------- | --- | --- |
+| Outlier Detection | [MD](/notes/4.1_Outlier.md) | [PDF](/pdfs/4.1_Outlier.pdf) |
