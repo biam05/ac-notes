@@ -29,3 +29,5 @@ Notes for the Machine Learning course @FEUP using [Obsidian](https://obsidian.md
 | Topic             | MD  | PDF |
 | ----------------- | --- | --- |
 | Outlier Detection | [MD](/notes/4.1_Outlier.md) | [PDF](/pdfs/4.1_Outlier.pdf) |
+| ANN + Introduction to Deep Learning | [MD](/notes/4.2_ANN_DL.md) | [PDF](/pdfs/4.2_ANN_DL.pdf) |
+| Metalearning and autoML | [MD](/notes/4.3_Metalearning.md) | [PDF](/pdfs/4.3_Metalearning.pdf) |
